@@ -26,7 +26,27 @@ license: mit
 
 *"Artha" (अर्थ) means wealth in Sanskrit — ArthaMind is the AI mind for your wealth.*
 
-[Live Demo](#) · [Features](#-features) · [Installation](#-installation) · [Architecture](#-architecture)
+---
+
+# 🚀 Live Demo
+
+### 🌐 Try ArthaMind AI Online
+
+**🔗 Hugging Face Deployment**
+
+https://huggingface.co/spaces/Bhargav-06/ArthaMind-Personal-Finance-Advisor
+
+**💻 GitHub Repository**
+
+https://github.com/bhargavramanamarchi/ArthaMind-AI
+
+---
+
+### 📌 Quick Navigation
+
+**🚀 Live Demo** • **✨ Features** • **⚙️ Installation** • **🏗️ Architecture** • **📸 Screenshots**
+
+---
 
 </div>
 
